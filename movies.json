@@ -160,7 +160,9 @@
             "Mystery",
             "Thriller"
         ],
-        "director": "Christopher Nolan",
+        "director": [
+            "Christopher Nolan"
+        ],
         "actors": [
             "Guy Pearce",
             "Carrie-Anne Moss",
@@ -180,7 +182,10 @@
             "Comedy",
             "Drama"
         ],
-        "director": "Olivier Nakache, Eric Toledano",
+        "director": [
+            "Olivier Nakache",
+            "Eric Toledano"
+        ],
         "actors": [
             "François Cluzet",
             "Omar Sy",
@@ -200,7 +205,9 @@
             "Family",
             "Fantasy"
         ],
-        "director": "Matthew Vaughn",
+        "director": [
+            "Matthew Vaughn"
+        ],
         "actors": [
             "Ian McKellen",
             "Bimbo Hart",
@@ -220,7 +227,9 @@
             "Adventure",
             "Drama"
         ],
-        "director": "Mel Gibson",
+        "director": [
+            "Mel Gibson"
+        ],
         "actors": [
             "Rudy Youngblood",
             "Dalia Hernández",
@@ -239,7 +248,9 @@
             "Crime",
             "Drama"
         ],
-        "director": "Martin Scorsese",
+        "director": [
+            "Martin Scorsese"
+        ],
         "actors": [
             "Diahnne Abbott",
             "Frank Adu",
@@ -2727,7 +2738,8 @@
             "Comedy"
         ],
         "director": [
-            "Pierre Coffin, Chris Renaud"
+            "Pierre Coffin",
+            "Chris Renaud"
         ],
         "actors": [
             "Steve Carell",
